@@ -1,6 +1,6 @@
 # Google Developer Challenge: Mobile Web Specialist
-### Quiz discussions and answers
-<p align="center">
+<p align="center"> 
+ <h3>Quiz discussions and answers</h3>
   <br>
   <img width="500" src="Google-Dev-EMEA-Badge.png" alt="Badge given to the chosen
   students">
