@@ -22,8 +22,8 @@ solving each of the quizzes for all the lessons, besides the proper answers for 
 of the tasks. 
 
 ## Description
-Each folder contains a *Readme* file with questions and answers about each 
-of the quizzes. At the end of each *readme.md* is attached the formal answer for the quiz. 
+Each folder contains a **Readme** file with questions and answers about each 
+of the quizzes. At the end of each **readme.md** is attached the formal answer for the quiz. 
 
 - [] * [Lesson 3: Service Workers](service_worker/readme.md)
 - [x] * [Lesson 4: IndexedDB & Caching](indexedDB/readme.md)
@@ -34,4 +34,9 @@ of the quizzes. At the end of each *readme.md* is attached the formal answer for
 - [] * [Resources for the course](https://github.com/DomanskaGrzyb/awesome-google-mobile-web-challenge-links-2017)
 
 ## Main contributors:
+  <br>
+  <br>
+  <br>
 
+## License
+You can drive.
