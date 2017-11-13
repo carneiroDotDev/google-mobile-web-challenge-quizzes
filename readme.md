@@ -1,12 +1,12 @@
 <p align="center">
+# Google Developer Challenge: Mobile Web Specialist
+### Quiz discussions and answers
   <br>
   <img width="500" src="Google-Dev-EMEA-Badge.png" alt="Badge given to the chosen
   students">
   <br>
 </p>
 
-# Google Developer Challenge: Mobile Web Specialist
-## Quizzes discussion and answers
 
 ## Context
 Udacity in association with Google selected students for a course about Offline Experience 
