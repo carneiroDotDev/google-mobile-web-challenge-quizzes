@@ -25,13 +25,13 @@ of the tasks.
 Each folder contains a **Readme** file with questions and answers about each 
 of the quizzes. At the end of each **readme.md** is attached the formal answer for the quiz. 
 
-- [ ] + [Lesson 3: Service Workers](service_worker/readme.md)
-- [x] + [Lesson 4: IndexedDB & Caching](indexedDB/readme.md)
-- [ ] + [Lesson 5: Javascript Syntax](javascript_syntax/readme.md)
-- [ ] + [Lesson 6: Functions](functions/readme.md)
-- [ ] + [Lesson 7: Built-ins](built_ins/readme.md)
-- [ ] + [Lesson 8: Professional Developer-fu](professional_developer_fu/readme.md)
-- [ ] + [Resources for the course](https://github.com/DomanskaGrzyb/awesome-google-mobile-web-challenge-links-2017)
+- [ ] - [Lesson 3: Service Workers](service_worker/readme.md)
+- [x] - [Lesson 4: IndexedDB & Caching](indexedDB/readme.md)
+- [ ] - [Lesson 5: Javascript Syntax](javascript_syntax/readme.md)
+- [ ] - [Lesson 6: Functions](functions/readme.md)
+- [ ] - [Lesson 7: Built-ins](built_ins/readme.md)
+- [ ] - [Lesson 8: Professional Developer-fu](professional_developer_fu/readme.md)
+- [ ] - [Resources for the course](https://github.com/DomanskaGrzyb/awesome-google-mobile-web-challenge-links-2017)
 
 ## Main contributors:
   <br>
