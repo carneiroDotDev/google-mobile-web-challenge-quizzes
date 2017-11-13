@@ -1,6 +1,6 @@
-<p align="center">
 # Google Developer Challenge: Mobile Web Specialist
 ### Quiz discussions and answers
+<p align="center">
   <br>
   <img width="500" src="Google-Dev-EMEA-Badge.png" alt="Badge given to the chosen
   students">
@@ -14,7 +14,7 @@ in Progressive Apps. The course includes 10 lessons of different topics (see bel
 quizzes along the lessons in order to test the knowledge just explained. The students 
 have a total of three months to complete all the tasks and watch all the lessons. 
 
-** This was created by the students of 2017/2018, however anyone is welcome to contribute.
+** This was created by the students of 2017/2018, however anyone (in any date) is welcome to contribute.
 
 ## Content
 This repository was created in order to store the discussions held by the students while 
