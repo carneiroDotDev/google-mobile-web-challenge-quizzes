@@ -38,7 +38,7 @@ of the quizzes. At the end of each **readme.md** is attached the formal answer f
 - [ ] - [Lesson 6: Functions](functions/readme.md)
 - [ ] - [Lesson 7: Built-ins](built_ins/readme.md)
 - [ ] - [Lesson 8: Professional Developer-fu](professional_developer_fu/readme.md)
-- [ ] - [Resources for the course](https://github.com/DomanskaGrzyb/awesome-google-mobile-web-challenge-links-2017)
+- [x] - [Resources for the course](https://github.com/DomanskaGrzyb/awesome-google-mobile-web-challenge-links-2017)
 
 ## Main contributors:
   <br>
