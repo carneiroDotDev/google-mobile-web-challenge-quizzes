@@ -9,5 +9,5 @@
 - [ ] - 12. Quiz: Cleaning Photo Cache Quiz
 - [ ] - 13. Quiz: Caching Avatars
 
-## We do not support copy and paste 
-## (Blocks of codes are commented out, please review).
+## We do not support copy and paste. 
+### (Blocks of codes are commented out, please review)
