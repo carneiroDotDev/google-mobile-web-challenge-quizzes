@@ -16,7 +16,9 @@ in Progressive Apps. The course includes ten lessons of different topics (see be
 quizzes are merged in (almost) each of the lessons.
 <div align="center"> 
 <b>We do not support copy and paste.</b>
+<br>
 <span>(Blocks of codes are commented out, please review). </span>
+<br>
 </div>
 
 
