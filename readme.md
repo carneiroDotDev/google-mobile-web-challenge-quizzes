@@ -9,18 +9,17 @@
   <br>
 </p>
 
-
 ## Context
 Udacity in association with Google selected students for a course about Offline Experience 
 in Progressive Apps. The course includes ten lessons of different topics (see below) and 
 quizzes are merged in (almost) each of the lessons.
+
 <div align="center"> 
 <b>We do not support copy and paste.</b>
 <br>
 <span>(Blocks of codes are commented out, please review). </span>
-<br>
 </div>
-
+<br>
 
 ** This was created by the students of 2017/2018, however anyone (in any date) is welcome to contribute.
 
