@@ -120,7 +120,7 @@ dbPromise
   });
 
 // TODO: console.log all people ordered by age
-dbPromise
+ // dbPromise
  // .then(function(db) {                             
  //   var tx = db.transaction('people');               // create a transaction 
  //   var peopleStore = tx.objectStore('people');      // get the object store 

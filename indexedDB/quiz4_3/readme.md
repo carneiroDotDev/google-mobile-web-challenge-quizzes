@@ -41,8 +41,8 @@ dbPromise
     console.log('Added foo:bar to keyval');
   });
 
-dbPromise
-  .then(function(db) {
+ // dbPromise
+ //  .then(function(db) {
       // TODO: in the keyval store, set
       // "favoriteAnimal" to your favourite animal
       // eg "cat" or "dog"
