@@ -21,6 +21,13 @@
 //           not start and therefore the server did not have the actual copy of 
 //           my current work status.
 //
+// Warning -  I had been struggling with lesson 4-6, then realized Chrome canary 
+//            Version 64.0.3269.0 (Official Build) canary (64-bit) was not behaving 
+//            as expected. It was throwing errors that doesn't make sense from my code. 
+//            Also it didn't update on reload. 
+//            Just switched to google Chrome Version 62.0.3202.94 (Official Build) 
+//            (64-bit). It works fine on the version
+//
 
 import PostsView from './views/Posts';
 import ToastsView from './views/Toasts';
