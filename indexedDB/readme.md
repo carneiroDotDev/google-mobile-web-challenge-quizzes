@@ -6,8 +6,8 @@
 - [x] - 7.  Quiz: Using IDB Cache 2
 - [x] - 8.  Quiz: Cleaning IDB
 - [x] - 10. Quiz: Cache Photos Quiz
-- [ ] - 12. Quiz: Cleaning Photo Cache Quiz
-- [ ] - 13. Quiz: Caching Avatars
+- [x] - 12. Quiz: Cleaning Photo Cache Quiz
+- [x] - 13. Quiz: Caching Avatars
 
 ## We do not support copy and paste. 
 ### (Blocks of codes are commented out, please review)
