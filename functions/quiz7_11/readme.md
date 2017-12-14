@@ -3,8 +3,8 @@
 // *We do not support copy and paste.
 // (Blocks of codes are commented out, please review).
 
-//    In this task you should a function tat accepts an object 
-//    as default. 
+//    In this task you should write a function that accepts 
+//    an object as default. 
 
 //Interesting questions about this task:
 //
