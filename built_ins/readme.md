@@ -1,6 +1,6 @@
 # Lesson 8: Built-ins
 
-- [ ] -  4.  Exercise: Iteration & Iterable Protocols
+- [x] -  4.  Exercise: Iteration & Iterable Protocols
 - [ ] -  9.  Quiz: Using Sets
 - [x] - 11.  Quiz: Working With WeakSets
 - [x] - 15.  Exercise: Looping Through Maps
