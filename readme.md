@@ -40,10 +40,6 @@ of the quizzes. At the end of each **readme.md** is attached the formal answer f
 - [x] - [Lesson 8: Professional Developer-fu](professional_developer_fu/)
 - [x] - [Resources for the course](https://github.com/DomanskaGrzyb/awesome-google-mobile-web-challenge-links-2017)
 
-## Main contributors:
-  <br>
-  <br>
-
 ## Message to contributors:
 Please, if possible, use [Prettier](https://prettier.io/) before sending a pull request.
 
