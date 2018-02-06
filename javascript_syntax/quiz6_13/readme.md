@@ -22,3 +22,5 @@ const days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 
 for (let day of days){
     console.log(day[0].toUpperCase()+day.substr(1));
 }
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

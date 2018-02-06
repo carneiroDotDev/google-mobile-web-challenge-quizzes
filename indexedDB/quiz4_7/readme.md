@@ -191,3 +191,5 @@ IndexController.prototype._onSocketMessage = function(data) {
 
   this._postsView.addPosts(messages);
 };
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

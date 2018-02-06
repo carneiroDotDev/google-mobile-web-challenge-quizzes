@@ -59,3 +59,4 @@ dbPromise
  //    console.log('Added favoriteAnimal: wombat to keyval');
  //  })
   ```
+    * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

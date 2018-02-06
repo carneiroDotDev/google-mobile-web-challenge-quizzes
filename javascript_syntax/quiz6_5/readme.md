@@ -43,3 +43,5 @@ function createAnimalTradingCardHTML(animal) {
 }
 
 console.log(createAnimalTradingCardHTML(cheetah));
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

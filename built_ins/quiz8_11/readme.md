@@ -30,3 +30,4 @@ uniqueFlavors.add(flavor1);
 uniqueFlavors.add(flavor2);
 uniqueFlavors.add(flavor1);
 ```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

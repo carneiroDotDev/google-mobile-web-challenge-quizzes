@@ -20,4 +20,5 @@ const vegetables = ["corn", "potatoes", "carrots"];
 const produce = [...fruits,...vegetables];
 
 console.log(produce);
-
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

@@ -131,4 +131,5 @@ dbPromise
  // .then(function(people) {
  //   console.log('Years old:', people);              // and finally log them.
  // });
-  ``
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

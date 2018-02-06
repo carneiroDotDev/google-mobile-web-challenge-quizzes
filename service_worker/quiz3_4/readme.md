@@ -79,4 +79,5 @@ IndexController.prototype._onSocketMessage = function(data) {
   var messages = JSON.parse(data);
   this._postsView.addPosts(messages);
 };
-
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

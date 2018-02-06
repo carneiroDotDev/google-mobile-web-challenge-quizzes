@@ -26,4 +26,4 @@ myFavoriteFlavors.add('strawberry');
 myFavoriteFlavors.add('vanilla');
 myFavoriteFlavors.delete('strawberry');
 ```
-
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

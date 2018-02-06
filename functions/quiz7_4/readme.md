@@ -20,5 +20,5 @@
 
 
 console.log(...squares);
-
-
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

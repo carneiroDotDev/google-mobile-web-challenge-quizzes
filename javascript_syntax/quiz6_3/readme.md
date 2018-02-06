@@ -30,4 +30,5 @@ function displayPosts() {
 }
 
 displayPosts();
-
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

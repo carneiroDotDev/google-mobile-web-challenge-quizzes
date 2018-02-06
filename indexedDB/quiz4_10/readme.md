@@ -98,4 +98,5 @@ self.addEventListener('message', function(event) {
     self.skipWaiting();
   }
 });
-
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

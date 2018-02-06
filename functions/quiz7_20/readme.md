@@ -52,4 +52,5 @@ myVehicle.honkHorn(); // beep beep
 const myBike = new Bicycle();
 console.log(myBike.color);
 myBike.honkHorn(); // honk honk
-
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

@@ -14,3 +14,5 @@ self.addEventListener('fetch', function(event) {
 //    })
 //    );
 });
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

@@ -29,4 +29,5 @@ const colors = `List of Colors
 3. ${three}`;
 
 console.log(colors);
-
+```
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)

@@ -14,3 +14,5 @@
 
 ## We do not support copy and paste. 
 ### (Blocks of codes are commented out, please review)
+
+  * Author: [Luiz Carneiro](https://github.com/luuizpaulo)
