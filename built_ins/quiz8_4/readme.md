@@ -71,3 +71,4 @@
    console.log(iterator.next()); // `5'10`
    console.log(iterator.next()); // 185
 ```
+⋅⋅* Author: [Luiz Carneiro](https://github.com/luuizpaulo)
